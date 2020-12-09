@@ -14,7 +14,6 @@
 #include <limits>
 #include <numeric>
 #include <memory>
-#include <functional>
 #include <fstream>
 #include <string>
 #include <vector>
